@@ -3,6 +3,7 @@
 Este projeto é um site que exibe informações sobre personagens da franquia Star Wars. Ele utiliza a API SWAPI (Star Wars API) para obter dados sobre os personagens e apresenta essas informações em um layout visualmente atraente. O site permite a navegação entre páginas de resultados e exibe detalhes dos personagens em um modal.
 
 Tecnologias Utilizadas
+
 HTML5
 
 CSS3
