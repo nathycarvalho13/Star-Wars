@@ -4,9 +4,13 @@ Este projeto é um site que exibe informações sobre personagens da franquia St
 
 Tecnologias Utilizadas
 HTML5
+
 CSS3
+
 JavaScript
+
 API SWAPI (https://swapi.dev)
+
 Font Awesome (https://fontawesome.com)
 
 Funcionalidades
